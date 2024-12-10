@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<wpiedata>
+  <item>
+    <id><![CDATA[6]]></id>
+    <post_title><![CDATA[Bisnis & Perusahaan]]></post_title>
+    <kategori><![CDATA[Jenis Website]]></kategori>
+    <fiturfungsi><![CDATA[14,15,16,17,18,19,20,21,22,23,24,25]]></fiturfungsi>
+    <fiturvisual><![CDATA[29,30,33,26,32,31,27,28]]></fiturvisual>
+    <fiturditawarkan><![CDATA[34,35]]></fiturditawarkan>
+    <penawaranmarketing><![CDATA[39,36,38,37]]></penawaranmarketing>
+    <webfiturfungsi></webfiturfungsi>
+    <webfiturvisual></webfiturvisual>
+    <webfiturditawarkan></webfiturditawarkan>
+    <webpenawaranmarketing></webpenawaranmarketing>
+  </item>
+  <item>
+    <id><![CDATA[7]]></id>
+    <post_title><![CDATA[Toko Online (E-commerce)]]></post_title>
+    <kategori><![CDATA[Jenis Website]]></kategori>
+    <fiturfungsi><![CDATA[14,15,16,17,20,21,22,23,25]]></fiturfungsi>
+    <fiturvisual><![CDATA[27,28,31,32]]></fiturvisual>
+    <fiturditawarkan></fiturditawarkan>
+    <penawaranmarketing><![CDATA[39,36,38,37]]></penawaranmarketing>
+    <webfiturfungsi></webfiturfungsi>
+    <webfiturvisual></webfiturvisual>
+    <webfiturditawarkan></webfiturditawarkan>
+    <webpenawaranmarketing></webpenawaranmarketing>
+  </item>
+  <item>
+    <id><![CDATA[8]]></id>
+    <post_title><![CDATA[Blog]]></post_title>
+    <kategori><![CDATA[Jenis Website]]></kategori>
+    <fiturfungsi><![CDATA[14,15,19,20,25]]></fiturfungsi>
+    <fiturvisual><![CDATA[26,27,28,31,32]]></fiturvisual>
+    <fiturditawarkan></fiturditawarkan>
+    <penawaranmarketing><![CDATA[37]]></penawaranmarketing>
+    <webfiturfungsi></webfiturfungsi>
+    <webfiturvisual></webfiturvisual>
+    <webfiturditawarkan></webfiturditawarkan>
+    <webpenawaranmarketing></webpenawaranmarketing>
+  </item>
+  <item>
+    <id><![CDATA[9]]></id>
+    <post_title><![CDATA[Portofolio & Galeri]]></post_title>
+    <kategori><![CDATA[Jenis Website]]></kategori>
+    <fiturfungsi><![CDATA[14,15,19,20,25]]></fiturfungsi>
+    <fiturvisual><![CDATA[26,27,28,29,31]]></fiturvisual>
+    <fiturditawarkan><![CDATA[34]]></fiturditawarkan>
+    <penawaranmarketing><![CDATA[37,38]]></penawaranmarketing>
+    <webfiturfungsi></webfiturfungsi>
+    <webfiturvisual></webfiturvisual>
+    <webfiturditawarkan></webfiturditawarkan>
+    <webpenawaranmarketing></webpenawaranmarketing>
+  </item>
+  <item>
+    <id><![CDATA[10]]></id>
+    <post_title><![CDATA[Portal Berita & Hiburan]]></post_title>
+    <kategori><![CDATA[Jenis Website]]></kategori>
+    <fiturfungsi><![CDATA[14,15,17,19,20,23]]></fiturfungsi>
+    <fiturvisual><![CDATA[26,27,28,30,31,32]]></fiturvisual>
+    <fiturditawarkan></fiturditawarkan>
+    <penawaranmarketing><![CDATA[37,38]]></penawaranmarketing>
+    <webfiturfungsi></webfiturfungsi>
+    <webfiturvisual></webfiturvisual>
+    <webfiturditawarkan></webfiturditawarkan>
+    <webpenawaranmarketing></webpenawaranmarketing>
+  </item>
+  <item>
+    <id><![CDATA[11]]></id>
+    <post_title><![CDATA[Situs Pendidikan & Kursus Online]]></post_title>
+    <kategori><![CDATA[Jenis Website]]></kategori>
+    <fiturfungsi><![CDATA[14,15,16,17,18,19,20,22,23,24,25]]></fiturfungsi>
+    <fiturvisual><![CDATA[26,27,28,30,31,32]]></fiturvisual>
+    <fiturditawarkan><![CDATA[34,35]]></fiturditawarkan>
+    <penawaranmarketing><![CDATA[39,36,38,37]]></penawaranmarketing>
+    <webfiturfungsi></webfiturfungsi>
+    <webfiturvisual></webfiturvisual>
+    <webfiturditawarkan></webfiturditawarkan>
+    <webpenawaranmarketing></webpenawaranmarketing>
+  </item>
+  <item>
+    <id><![CDATA[12]]></id>
+    <post_title><![CDATA[Komunitas]]></post_title>
+    <kategori><![CDATA[Jenis Website]]></kategori>
+    <fiturfungsi><![CDATA[14,15,17,18,19,20,22,23]]></fiturfungsi>
+    <fiturvisual><![CDATA[26,27,28,30,31,33]]></fiturvisual>
+    <fiturditawarkan><![CDATA[34,35]]></fiturditawarkan>
+    <penawaranmarketing><![CDATA[37,39]]></penawaranmarketing>
+    <webfiturfungsi></webfiturfungsi>
+    <webfiturvisual></webfiturvisual>
+    <webfiturditawarkan></webfiturditawarkan>
+    <webpenawaranmarketing></webpenawaranmarketing>
+  </item>
+  <item>
+    <id><![CDATA[13]]></id>
+    <post_title><![CDATA[Landing Page]]></post_title>
+    <kategori><![CDATA[Jenis Website]]></kategori>
+    <fiturfungsi><![CDATA[14,16,18,20,21,22,23,25]]></fiturfungsi>
+    <fiturvisual><![CDATA[26,27,28,29,30,31,33]]></fiturvisual>
+    <fiturditawarkan><![CDATA[34,35]]></fiturditawarkan>
+    <penawaranmarketing><![CDATA[39,36,38,37]]></penawaranmarketing>
+    <webfiturfungsi></webfiturfungsi>
+    <webfiturvisual></webfiturvisual>
+    <webfiturditawarkan></webfiturditawarkan>
+    <webpenawaranmarketing></webpenawaranmarketing>
+  </item>
+</wpiedata>

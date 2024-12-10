@@ -1,0 +1,817 @@
+ID,post_title,Kategori,Fitur Fungsi,Fitur Visual,Fitur Ditawarkan,Penawaran Marketing,Web Fitur Fungsi,Web Fitur Visual,Web Fitur Ditawarkan,Web Penawaran Marketing,post_content,thumbnail
+6,Bisnis & Perusahaan,Jenis Website,"14,15,16,17,18,19,20,21,22,23,24,25","29,30,33,26,32,31,27,28","34,35","39,36,38,37",,,,,"[savethepost savepost=""post_content""][gemini model=""gemini-1.5-pro"" br=""false"" savepost=""showonly""]Buat artikel menjelaskan pentingnya untuk memiliki website untuk [taxonomy category field=name] [field title]
+Jangan gunakan kontak.
+Gunakan format html bootstrap 3, jangan gunakan tag <!DOCTYPE html>, <html>, <head>, <meta>,<title>,<body>, <h1> <header>,<footer>,<code>,<style>
+Jangan tambahkan script dan style eksternal, karena website sudah menggunakan font awesome dan bootstrap3.
+Tambahkan gambar ilustrasi yang bebas copyright dari sumber eksternal tentang website [field title][/gemini]
+
+
+[gemini model=""gemini-1.5-pro"" br=""false"" savepost=""showonly""]Buat artikel menjelaskan penawaran untuk website untuk [taxonomy category field=name] [field title]  [pass field=fitur_fungsi][loop type=post id='{FIELD}'][if first] dan jelaskan manfaat [taxonomy category field=name] berikut:
+[/if]- [field title] | link:[field url]
+[if last]
+Masing-masing [taxonomy category field=name] beri judul dengan link, gunakan icon font awesome, lalu tambahkan penjelasan 2-4 paragraf.
+Jangan gunakan kontak.
+Gunakan format html bootstrap 3, jangan gunakan tag <!DOCTYPE html>, <html>, <head>, <meta>,<title>,<body>, <h1> <header>,<footer>,<code>,<style>
+Jangan tambahkan link selain yang sudah diatur
+Jangan tambahkan script dan style eksternal, karena website sudah menggunakan font awesome dan bootstrap3.
+Tambahkan gambar ilustrasi yang bebas copyright dari sumber eksternal tentang website 
+[/if][/loop][/pass][/gemini]
+
+[gemini model=""gemini-1.5-pro"" br=""false"" savepost=""showonly""]Buat artikel menjelaskan penawaran untuk website untuk [taxonomy category field=name] [field title]  [pass field=fitur_visual][loop type=post id='{FIELD}'][if first] dan jelaskan manfaat [taxonomy category field=name] berikut:
+[/if]- [field title] | link:[field url]
+[if last]
+Masing-masing [taxonomy category field=name] beri judul dengan link, gunakan icon font awesome, lalu tambahkan penjelasan 2-4 paragraf.
+Jangan gunakan kontak.
+Gunakan format html bootstrap 3, jangan gunakan tag <!DOCTYPE html>, <html>, <head>, <meta>,<title>,<body>, <h1> <header>,<footer>,<code>,<style>
+Jangan tambahkan link selain yang sudah diatur
+Jangan tambahkan script dan style eksternal, karena website sudah menggunakan font awesome dan bootstrap3.
+Tambahkan gambar ilustrasi yang bebas copyright dari sumber eksternal tentang website 
+[/if][/loop][/pass][/gemini]
+
+[gemini model=""gemini-1.5-pro"" br=""false"" savepost=""showonly""]Buat artikel penawaran untuk memiliki website untuk [taxonomy category field=name] [field title]  [pass field=fitur_ditawarkan][loop type=post id='{FIELD}'][if first] dan jelaskan manfaat [taxonomy category field=name] berikut:
+[/if]- [field title] | link:[field url]
+[if last]
+Masing-masing [taxonomy category field=name] beri judul dengan link, gunakan icon font awesome, lalu tambahkan penjelasan 2-4 paragraf.
+Jangan gunakan kontak.
+Gunakan format html bootstrap 3, jangan gunakan tag <!DOCTYPE html>, <html>, <head>, <meta>,<title>,<body>, <h1> <header>,<footer>,<code>,<style>
+Jangan tambahkan link selain yang sudah diatur
+Jangan tambahkan script dan style eksternal, karena website sudah menggunakan font awesome dan bootstrap3.
+Tambahkan gambar ilustrasi yang bebas copyright dari sumber eksternal tentang website 
+[/if][/loop][/pass][/gemini]
+
+[gemini model=""gemini-1.5-pro"" br=""false"" savepost=""showonly""]Buat artikel penawaran untuk memiliki website untuk [taxonomy category field=name] [field title]  [pass field=penawaran_marketing][loop type=post id='{FIELD}'][if first] dan jelaskan manfaat [taxonomy category field=name] berikut:
+[/if]- [field title] | link:[field url]
+[if last]
+Masing-masing [taxonomy category field=name] beri judul dengan link, gunakan icon font awesome, lalu tambahkan penjelasan 2-4 paragraf.
+Jangan gunakan kontak.
+Gunakan format html bootstrap 3, jangan gunakan tag <!DOCTYPE html>, <html>, <head>, <meta>,<title>,<body>, <h1> <header>,<footer>,<code>,<style>
+Jangan tambahkan link selain yang sudah diatur
+Jangan tambahkan script dan style eksternal, karena website sudah menggunakan font awesome dan bootstrap3.
+Tambahkan gambar ilustrasi yang bebas copyright dari sumber eksternal tentang website 
+[/if][/loop][/pass][/gemini][/savethepost]",Wujudkan-Website-Bisnis-Usaha-Anda-Jasa-Pembuatan-Website.jpg
+7,Toko Online (E-commerce),Jenis Website,"14,15,16,17,20,21,22,23,25","27,28,31,32",,"39,36,38,37",,,,,"[savethepost savepost=""post_content""][gemini model=""gemini-1.5-pro"" br=""false"" savepost=""showonly""]Buat artikel menjelaskan pentingnya untuk memiliki website untuk [taxonomy category field=name] [field title]
+Jangan gunakan kontak.
+Gunakan format html bootstrap 3, jangan gunakan tag <!DOCTYPE html>, <html>, <head>, <meta>,<title>,<body>, <h1> <header>,<footer>,<code>,<style>
+Jangan tambahkan script dan style eksternal, karena website sudah menggunakan font awesome dan bootstrap3.
+Tambahkan gambar ilustrasi yang bebas copyright dari sumber eksternal tentang website [field title][/gemini]
+
+
+[gemini model=""gemini-1.5-pro"" br=""false"" savepost=""showonly""]Buat artikel menjelaskan penawaran untuk website untuk [taxonomy category field=name] [field title]  [pass field=fitur_fungsi][loop type=post id='{FIELD}'][if first] dan jelaskan manfaat [taxonomy category field=name] berikut:
+[/if]- [field title] | link:[field url]
+[if last]
+Masing-masing [taxonomy category field=name] beri judul dengan link, gunakan icon font awesome, lalu tambahkan penjelasan 2-4 paragraf.
+Jangan gunakan kontak.
+Gunakan format html bootstrap 3, jangan gunakan tag <!DOCTYPE html>, <html>, <head>, <meta>,<title>,<body>, <h1> <header>,<footer>,<code>,<style>
+Jangan tambahkan link selain yang sudah diatur
+Jangan tambahkan script dan style eksternal, karena website sudah menggunakan font awesome dan bootstrap3.
+Tambahkan gambar ilustrasi yang bebas copyright dari sumber eksternal tentang website 
+[/if][/loop][/pass][/gemini]
+
+[gemini model=""gemini-1.5-pro"" br=""false"" savepost=""showonly""]Buat artikel menjelaskan penawaran untuk website untuk [taxonomy category field=name] [field title]  [pass field=fitur_visual][loop type=post id='{FIELD}'][if first] dan jelaskan manfaat [taxonomy category field=name] berikut:
+[/if]- [field title] | link:[field url]
+[if last]
+Masing-masing [taxonomy category field=name] beri judul dengan link, gunakan icon font awesome, lalu tambahkan penjelasan 2-4 paragraf.
+Jangan gunakan kontak.
+Gunakan format html bootstrap 3, jangan gunakan tag <!DOCTYPE html>, <html>, <head>, <meta>,<title>,<body>, <h1> <header>,<footer>,<code>,<style>
+Jangan tambahkan link selain yang sudah diatur
+Jangan tambahkan script dan style eksternal, karena website sudah menggunakan font awesome dan bootstrap3.
+Tambahkan gambar ilustrasi yang bebas copyright dari sumber eksternal tentang website 
+[/if][/loop][/pass][/gemini]
+
+[gemini model=""gemini-1.5-pro"" br=""false"" savepost=""showonly""]Buat artikel penawaran untuk memiliki website untuk [taxonomy category field=name] [field title]  [pass field=fitur_ditawarkan][loop type=post id='{FIELD}'][if first] dan jelaskan manfaat [taxonomy category field=name] berikut:
+[/if]- [field title] | link:[field url]
+[if last]
+Masing-masing [taxonomy category field=name] beri judul dengan link, gunakan icon font awesome, lalu tambahkan penjelasan 2-4 paragraf.
+Jangan gunakan kontak.
+Gunakan format html bootstrap 3, jangan gunakan tag <!DOCTYPE html>, <html>, <head>, <meta>,<title>,<body>, <h1> <header>,<footer>,<code>,<style>
+Jangan tambahkan link selain yang sudah diatur
+Jangan tambahkan script dan style eksternal, karena website sudah menggunakan font awesome dan bootstrap3.
+Tambahkan gambar ilustrasi yang bebas copyright dari sumber eksternal tentang website 
+[/if][/loop][/pass][/gemini]
+
+[gemini model=""gemini-1.5-pro"" br=""false"" savepost=""showonly""]Buat artikel penawaran untuk memiliki website untuk [taxonomy category field=name] [field title]  [pass field=penawaran_marketing][loop type=post id='{FIELD}'][if first] dan jelaskan manfaat [taxonomy category field=name] berikut:
+[/if]- [field title] | link:[field url]
+[if last]
+Masing-masing [taxonomy category field=name] beri judul dengan link, gunakan icon font awesome, lalu tambahkan penjelasan 2-4 paragraf.
+Jangan gunakan kontak.
+Gunakan format html bootstrap 3, jangan gunakan tag <!DOCTYPE html>, <html>, <head>, <meta>,<title>,<body>, <h1> <header>,<footer>,<code>,<style>
+Jangan tambahkan link selain yang sudah diatur
+Jangan tambahkan script dan style eksternal, karena website sudah menggunakan font awesome dan bootstrap3.
+Tambahkan gambar ilustrasi yang bebas copyright dari sumber eksternal tentang website 
+[/if][/loop][/pass][/gemini][/savethepost]",Jasa-Pembuatan-Website-Toko-Online-Ecommerce.jpg
+8,Blog,Jenis Website,"14,15,19,20,25","26,27,28,31,32",,37,,,,,"[savethepost savepost=""post_content""][gemini model=""gemini-1.5-pro"" br=""false"" savepost=""showonly""]Buat artikel menjelaskan pentingnya untuk memiliki website untuk [taxonomy category field=name] [field title]
+Jangan gunakan kontak.
+Gunakan format html bootstrap 3, jangan gunakan tag <!DOCTYPE html>, <html>, <head>, <meta>,<title>,<body>, <h1> <header>,<footer>,<code>,<style>
+Jangan tambahkan script dan style eksternal, karena website sudah menggunakan font awesome dan bootstrap3.
+Tambahkan gambar ilustrasi yang bebas copyright dari sumber eksternal tentang website [field title][/gemini]
+
+
+[gemini model=""gemini-1.5-pro"" br=""false"" savepost=""showonly""]Buat artikel menjelaskan penawaran untuk website untuk [taxonomy category field=name] [field title]  [pass field=fitur_fungsi][loop type=post id='{FIELD}'][if first] dan jelaskan manfaat [taxonomy category field=name] berikut:
+[/if]- [field title] | link:[field url]
+[if last]
+Masing-masing [taxonomy category field=name] beri judul dengan link, gunakan icon font awesome, lalu tambahkan penjelasan 2-4 paragraf.
+Jangan gunakan kontak.
+Gunakan format html bootstrap 3, jangan gunakan tag <!DOCTYPE html>, <html>, <head>, <meta>,<title>,<body>, <h1> <header>,<footer>,<code>,<style>
+Jangan tambahkan link selain yang sudah diatur
+Jangan tambahkan script dan style eksternal, karena website sudah menggunakan font awesome dan bootstrap3.
+Tambahkan gambar ilustrasi yang bebas copyright dari sumber eksternal tentang website 
+[/if][/loop][/pass][/gemini]
+
+[gemini model=""gemini-1.5-pro"" br=""false"" savepost=""showonly""]Buat artikel menjelaskan penawaran untuk website untuk [taxonomy category field=name] [field title]  [pass field=fitur_visual][loop type=post id='{FIELD}'][if first] dan jelaskan manfaat [taxonomy category field=name] berikut:
+[/if]- [field title] | link:[field url]
+[if last]
+Masing-masing [taxonomy category field=name] beri judul dengan link, gunakan icon font awesome, lalu tambahkan penjelasan 2-4 paragraf.
+Jangan gunakan kontak.
+Gunakan format html bootstrap 3, jangan gunakan tag <!DOCTYPE html>, <html>, <head>, <meta>,<title>,<body>, <h1> <header>,<footer>,<code>,<style>
+Jangan tambahkan link selain yang sudah diatur
+Jangan tambahkan script dan style eksternal, karena website sudah menggunakan font awesome dan bootstrap3.
+Tambahkan gambar ilustrasi yang bebas copyright dari sumber eksternal tentang website 
+[/if][/loop][/pass][/gemini]
+
+[gemini model=""gemini-1.5-pro"" br=""false"" savepost=""showonly""]Buat artikel penawaran untuk memiliki website untuk [taxonomy category field=name] [field title]  [pass field=fitur_ditawarkan][loop type=post id='{FIELD}'][if first] dan jelaskan manfaat [taxonomy category field=name] berikut:
+[/if]- [field title] | link:[field url]
+[if last]
+Masing-masing [taxonomy category field=name] beri judul dengan link, gunakan icon font awesome, lalu tambahkan penjelasan 2-4 paragraf.
+Jangan gunakan kontak.
+Gunakan format html bootstrap 3, jangan gunakan tag <!DOCTYPE html>, <html>, <head>, <meta>,<title>,<body>, <h1> <header>,<footer>,<code>,<style>
+Jangan tambahkan link selain yang sudah diatur
+Jangan tambahkan script dan style eksternal, karena website sudah menggunakan font awesome dan bootstrap3.
+Tambahkan gambar ilustrasi yang bebas copyright dari sumber eksternal tentang website 
+[/if][/loop][/pass][/gemini]
+
+[gemini model=""gemini-1.5-pro"" br=""false"" savepost=""showonly""]Buat artikel penawaran untuk memiliki website untuk [taxonomy category field=name] [field title]  [pass field=penawaran_marketing][loop type=post id='{FIELD}'][if first] dan jelaskan manfaat [taxonomy category field=name] berikut:
+[/if]- [field title] | link:[field url]
+[if last]
+Masing-masing [taxonomy category field=name] beri judul dengan link, gunakan icon font awesome, lalu tambahkan penjelasan 2-4 paragraf.
+Jangan gunakan kontak.
+Gunakan format html bootstrap 3, jangan gunakan tag <!DOCTYPE html>, <html>, <head>, <meta>,<title>,<body>, <h1> <header>,<footer>,<code>,<style>
+Jangan tambahkan link selain yang sudah diatur
+Jangan tambahkan script dan style eksternal, karena website sudah menggunakan font awesome dan bootstrap3.
+Tambahkan gambar ilustrasi yang bebas copyright dari sumber eksternal tentang website 
+[/if][/loop][/pass][/gemini][/savethepost]",Jasa-Website-Blog.jpg
+9,Portofolio & Galeri,Jenis Website,"14,15,19,20,25","26,27,28,29,31",34,"37,38",,,,,"[savethepost savepost=""post_content""][gemini model=""gemini-1.5-pro"" br=""false"" savepost=""showonly""]Buat artikel menjelaskan pentingnya untuk memiliki website untuk [taxonomy category field=name] [field title]
+Jangan gunakan kontak.
+Gunakan format html bootstrap 3, jangan gunakan tag <!DOCTYPE html>, <html>, <head>, <meta>,<title>,<body>, <h1> <header>,<footer>,<code>,<style>
+Jangan tambahkan script dan style eksternal, karena website sudah menggunakan font awesome dan bootstrap3.
+Tambahkan gambar ilustrasi yang bebas copyright dari sumber eksternal tentang website [field title][/gemini]
+
+
+[gemini model=""gemini-1.5-pro"" br=""false"" savepost=""showonly""]Buat artikel menjelaskan penawaran untuk website untuk [taxonomy category field=name] [field title]  [pass field=fitur_fungsi][loop type=post id='{FIELD}'][if first] dan jelaskan manfaat [taxonomy category field=name] berikut:
+[/if]- [field title] | link:[field url]
+[if last]
+Masing-masing [taxonomy category field=name] beri judul dengan link, gunakan icon font awesome, lalu tambahkan penjelasan 2-4 paragraf.
+Jangan gunakan kontak.
+Gunakan format html bootstrap 3, jangan gunakan tag <!DOCTYPE html>, <html>, <head>, <meta>,<title>,<body>, <h1> <header>,<footer>,<code>,<style>
+Jangan tambahkan link selain yang sudah diatur
+Jangan tambahkan script dan style eksternal, karena website sudah menggunakan font awesome dan bootstrap3.
+Tambahkan gambar ilustrasi yang bebas copyright dari sumber eksternal tentang website 
+[/if][/loop][/pass][/gemini]
+
+[gemini model=""gemini-1.5-pro"" br=""false"" savepost=""showonly""]Buat artikel menjelaskan penawaran untuk website untuk [taxonomy category field=name] [field title]  [pass field=fitur_visual][loop type=post id='{FIELD}'][if first] dan jelaskan manfaat [taxonomy category field=name] berikut:
+[/if]- [field title] | link:[field url]
+[if last]
+Masing-masing [taxonomy category field=name] beri judul dengan link, gunakan icon font awesome, lalu tambahkan penjelasan 2-4 paragraf.
+Jangan gunakan kontak.
+Gunakan format html bootstrap 3, jangan gunakan tag <!DOCTYPE html>, <html>, <head>, <meta>,<title>,<body>, <h1> <header>,<footer>,<code>,<style>
+Jangan tambahkan link selain yang sudah diatur
+Jangan tambahkan script dan style eksternal, karena website sudah menggunakan font awesome dan bootstrap3.
+Tambahkan gambar ilustrasi yang bebas copyright dari sumber eksternal tentang website 
+[/if][/loop][/pass][/gemini]
+
+[gemini model=""gemini-1.5-pro"" br=""false"" savepost=""showonly""]Buat artikel penawaran untuk memiliki website untuk [taxonomy category field=name] [field title]  [pass field=fitur_ditawarkan][loop type=post id='{FIELD}'][if first] dan jelaskan manfaat [taxonomy category field=name] berikut:
+[/if]- [field title] | link:[field url]
+[if last]
+Masing-masing [taxonomy category field=name] beri judul dengan link, gunakan icon font awesome, lalu tambahkan penjelasan 2-4 paragraf.
+Jangan gunakan kontak.
+Gunakan format html bootstrap 3, jangan gunakan tag <!DOCTYPE html>, <html>, <head>, <meta>,<title>,<body>, <h1> <header>,<footer>,<code>,<style>
+Jangan tambahkan link selain yang sudah diatur
+Jangan tambahkan script dan style eksternal, karena website sudah menggunakan font awesome dan bootstrap3.
+Tambahkan gambar ilustrasi yang bebas copyright dari sumber eksternal tentang website 
+[/if][/loop][/pass][/gemini]
+
+[gemini model=""gemini-1.5-pro"" br=""false"" savepost=""showonly""]Buat artikel penawaran untuk memiliki website untuk [taxonomy category field=name] [field title]  [pass field=penawaran_marketing][loop type=post id='{FIELD}'][if first] dan jelaskan manfaat [taxonomy category field=name] berikut:
+[/if]- [field title] | link:[field url]
+[if last]
+Masing-masing [taxonomy category field=name] beri judul dengan link, gunakan icon font awesome, lalu tambahkan penjelasan 2-4 paragraf.
+Jangan gunakan kontak.
+Gunakan format html bootstrap 3, jangan gunakan tag <!DOCTYPE html>, <html>, <head>, <meta>,<title>,<body>, <h1> <header>,<footer>,<code>,<style>
+Jangan tambahkan link selain yang sudah diatur
+Jangan tambahkan script dan style eksternal, karena website sudah menggunakan font awesome dan bootstrap3.
+Tambahkan gambar ilustrasi yang bebas copyright dari sumber eksternal tentang website 
+[/if][/loop][/pass][/gemini][/savethepost]",Jasa-Website-Portofolio-Galeri.jpg
+10,Portal Berita & Hiburan,Jenis Website,"14,15,17,19,20,23","26,27,28,30,31,32",,"37,38",,,,,"[savethepost savepost=""post_content""][gemini model=""gemini-1.5-pro"" br=""false"" savepost=""showonly""]Buat artikel menjelaskan pentingnya untuk memiliki website untuk [taxonomy category field=name] [field title]
+Jangan gunakan kontak.
+Gunakan format html bootstrap 3, jangan gunakan tag <!DOCTYPE html>, <html>, <head>, <meta>,<title>,<body>, <h1> <header>,<footer>,<code>,<style>
+Jangan tambahkan script dan style eksternal, karena website sudah menggunakan font awesome dan bootstrap3.
+Tambahkan gambar ilustrasi yang bebas copyright dari sumber eksternal tentang website [field title][/gemini]
+
+
+[gemini model=""gemini-1.5-pro"" br=""false"" savepost=""showonly""]Buat artikel menjelaskan penawaran untuk website untuk [taxonomy category field=name] [field title]  [pass field=fitur_fungsi][loop type=post id='{FIELD}'][if first] dan jelaskan manfaat [taxonomy category field=name] berikut:
+[/if]- [field title] | link:[field url]
+[if last]
+Masing-masing [taxonomy category field=name] beri judul dengan link, gunakan icon font awesome, lalu tambahkan penjelasan 2-4 paragraf.
+Jangan gunakan kontak.
+Gunakan format html bootstrap 3, jangan gunakan tag <!DOCTYPE html>, <html>, <head>, <meta>,<title>,<body>, <h1> <header>,<footer>,<code>,<style>
+Jangan tambahkan link selain yang sudah diatur
+Jangan tambahkan script dan style eksternal, karena website sudah menggunakan font awesome dan bootstrap3.
+Tambahkan gambar ilustrasi yang bebas copyright dari sumber eksternal tentang website 
+[/if][/loop][/pass][/gemini]
+
+[gemini model=""gemini-1.5-pro"" br=""false"" savepost=""showonly""]Buat artikel menjelaskan penawaran untuk website untuk [taxonomy category field=name] [field title]  [pass field=fitur_visual][loop type=post id='{FIELD}'][if first] dan jelaskan manfaat [taxonomy category field=name] berikut:
+[/if]- [field title] | link:[field url]
+[if last]
+Masing-masing [taxonomy category field=name] beri judul dengan link, gunakan icon font awesome, lalu tambahkan penjelasan 2-4 paragraf.
+Jangan gunakan kontak.
+Gunakan format html bootstrap 3, jangan gunakan tag <!DOCTYPE html>, <html>, <head>, <meta>,<title>,<body>, <h1> <header>,<footer>,<code>,<style>
+Jangan tambahkan link selain yang sudah diatur
+Jangan tambahkan script dan style eksternal, karena website sudah menggunakan font awesome dan bootstrap3.
+Tambahkan gambar ilustrasi yang bebas copyright dari sumber eksternal tentang website 
+[/if][/loop][/pass][/gemini]
+
+[gemini model=""gemini-1.5-pro"" br=""false"" savepost=""showonly""]Buat artikel penawaran untuk memiliki website untuk [taxonomy category field=name] [field title]  [pass field=fitur_ditawarkan][loop type=post id='{FIELD}'][if first] dan jelaskan manfaat [taxonomy category field=name] berikut:
+[/if]- [field title] | link:[field url]
+[if last]
+Masing-masing [taxonomy category field=name] beri judul dengan link, gunakan icon font awesome, lalu tambahkan penjelasan 2-4 paragraf.
+Jangan gunakan kontak.
+Gunakan format html bootstrap 3, jangan gunakan tag <!DOCTYPE html>, <html>, <head>, <meta>,<title>,<body>, <h1> <header>,<footer>,<code>,<style>
+Jangan tambahkan link selain yang sudah diatur
+Jangan tambahkan script dan style eksternal, karena website sudah menggunakan font awesome dan bootstrap3.
+Tambahkan gambar ilustrasi yang bebas copyright dari sumber eksternal tentang website 
+[/if][/loop][/pass][/gemini]
+
+[gemini model=""gemini-1.5-pro"" br=""false"" savepost=""showonly""]Buat artikel penawaran untuk memiliki website untuk [taxonomy category field=name] [field title]  [pass field=penawaran_marketing][loop type=post id='{FIELD}'][if first] dan jelaskan manfaat [taxonomy category field=name] berikut:
+[/if]- [field title] | link:[field url]
+[if last]
+Masing-masing [taxonomy category field=name] beri judul dengan link, gunakan icon font awesome, lalu tambahkan penjelasan 2-4 paragraf.
+Jangan gunakan kontak.
+Gunakan format html bootstrap 3, jangan gunakan tag <!DOCTYPE html>, <html>, <head>, <meta>,<title>,<body>, <h1> <header>,<footer>,<code>,<style>
+Jangan tambahkan link selain yang sudah diatur
+Jangan tambahkan script dan style eksternal, karena website sudah menggunakan font awesome dan bootstrap3.
+Tambahkan gambar ilustrasi yang bebas copyright dari sumber eksternal tentang website 
+[/if][/loop][/pass][/gemini][/savethepost]",Jasa-Website-Portal-Berita-Hiburan.jpg
+11,Situs Pendidikan & Kursus Online,Jenis Website,"14,15,16,17,18,19,20,22,23,24,25","26,27,28,30,31,32","34,35","39,36,38,37",,,,,"[savethepost savepost=""post_content""][gemini model=""gemini-1.5-pro"" br=""false"" savepost=""showonly""]Buat artikel menjelaskan pentingnya untuk memiliki website untuk [taxonomy category field=name] [field title]
+Jangan gunakan kontak.
+Gunakan format html bootstrap 3, jangan gunakan tag <!DOCTYPE html>, <html>, <head>, <meta>,<title>,<body>, <h1> <header>,<footer>,<code>,<style>
+Jangan tambahkan script dan style eksternal, karena website sudah menggunakan font awesome dan bootstrap3.
+Tambahkan gambar ilustrasi yang bebas copyright dari sumber eksternal tentang website [field title][/gemini]
+
+
+[gemini model=""gemini-1.5-pro"" br=""false"" savepost=""showonly""]Buat artikel menjelaskan penawaran untuk website untuk [taxonomy category field=name] [field title]  [pass field=fitur_fungsi][loop type=post id='{FIELD}'][if first] dan jelaskan manfaat [taxonomy category field=name] berikut:
+[/if]- [field title] | link:[field url]
+[if last]
+Masing-masing [taxonomy category field=name] beri judul dengan link, gunakan icon font awesome, lalu tambahkan penjelasan 2-4 paragraf.
+Jangan gunakan kontak.
+Gunakan format html bootstrap 3, jangan gunakan tag <!DOCTYPE html>, <html>, <head>, <meta>,<title>,<body>, <h1> <header>,<footer>,<code>,<style>
+Jangan tambahkan link selain yang sudah diatur
+Jangan tambahkan script dan style eksternal, karena website sudah menggunakan font awesome dan bootstrap3.
+Tambahkan gambar ilustrasi yang bebas copyright dari sumber eksternal tentang website 
+[/if][/loop][/pass][/gemini]
+
+[gemini model=""gemini-1.5-pro"" br=""false"" savepost=""showonly""]Buat artikel menjelaskan penawaran untuk website untuk [taxonomy category field=name] [field title]  [pass field=fitur_visual][loop type=post id='{FIELD}'][if first] dan jelaskan manfaat [taxonomy category field=name] berikut:
+[/if]- [field title] | link:[field url]
+[if last]
+Masing-masing [taxonomy category field=name] beri judul dengan link, gunakan icon font awesome, lalu tambahkan penjelasan 2-4 paragraf.
+Jangan gunakan kontak.
+Gunakan format html bootstrap 3, jangan gunakan tag <!DOCTYPE html>, <html>, <head>, <meta>,<title>,<body>, <h1> <header>,<footer>,<code>,<style>
+Jangan tambahkan link selain yang sudah diatur
+Jangan tambahkan script dan style eksternal, karena website sudah menggunakan font awesome dan bootstrap3.
+Tambahkan gambar ilustrasi yang bebas copyright dari sumber eksternal tentang website 
+[/if][/loop][/pass][/gemini]
+
+[gemini model=""gemini-1.5-pro"" br=""false"" savepost=""showonly""]Buat artikel penawaran untuk memiliki website untuk [taxonomy category field=name] [field title]  [pass field=fitur_ditawarkan][loop type=post id='{FIELD}'][if first] dan jelaskan manfaat [taxonomy category field=name] berikut:
+[/if]- [field title] | link:[field url]
+[if last]
+Masing-masing [taxonomy category field=name] beri judul dengan link, gunakan icon font awesome, lalu tambahkan penjelasan 2-4 paragraf.
+Jangan gunakan kontak.
+Gunakan format html bootstrap 3, jangan gunakan tag <!DOCTYPE html>, <html>, <head>, <meta>,<title>,<body>, <h1> <header>,<footer>,<code>,<style>
+Jangan tambahkan link selain yang sudah diatur
+Jangan tambahkan script dan style eksternal, karena website sudah menggunakan font awesome dan bootstrap3.
+Tambahkan gambar ilustrasi yang bebas copyright dari sumber eksternal tentang website 
+[/if][/loop][/pass][/gemini]
+
+[gemini model=""gemini-1.5-pro"" br=""false"" savepost=""showonly""]Buat artikel penawaran untuk memiliki website untuk [taxonomy category field=name] [field title]  [pass field=penawaran_marketing][loop type=post id='{FIELD}'][if first] dan jelaskan manfaat [taxonomy category field=name] berikut:
+[/if]- [field title] | link:[field url]
+[if last]
+Masing-masing [taxonomy category field=name] beri judul dengan link, gunakan icon font awesome, lalu tambahkan penjelasan 2-4 paragraf.
+Jangan gunakan kontak.
+Gunakan format html bootstrap 3, jangan gunakan tag <!DOCTYPE html>, <html>, <head>, <meta>,<title>,<body>, <h1> <header>,<footer>,<code>,<style>
+Jangan tambahkan link selain yang sudah diatur
+Jangan tambahkan script dan style eksternal, karena website sudah menggunakan font awesome dan bootstrap3.
+Tambahkan gambar ilustrasi yang bebas copyright dari sumber eksternal tentang website 
+[/if][/loop][/pass][/gemini][/savethepost]",Jasa-Website-Pendidikan-Sekolah-Kampus-Webinar.jpg
+12,Komunitas,Jenis Website,"14,15,17,18,19,20,22,23","26,27,28,30,31,33","34,35","37,39",,,,,"[savethepost savepost=""post_content""][gemini model=""gemini-1.5-pro"" br=""false"" savepost=""showonly""]Buat artikel menjelaskan pentingnya untuk memiliki website untuk [taxonomy category field=name] [field title]
+Jangan gunakan kontak.
+Gunakan format html bootstrap 3, jangan gunakan tag <!DOCTYPE html>, <html>, <head>, <meta>,<title>,<body>, <h1> <header>,<footer>,<code>,<style>
+Jangan tambahkan script dan style eksternal, karena website sudah menggunakan font awesome dan bootstrap3.
+Tambahkan gambar ilustrasi yang bebas copyright dari sumber eksternal tentang website [field title][/gemini]
+
+
+[gemini model=""gemini-1.5-pro"" br=""false"" savepost=""showonly""]Buat artikel menjelaskan penawaran untuk website untuk [taxonomy category field=name] [field title]  [pass field=fitur_fungsi][loop type=post id='{FIELD}'][if first] dan jelaskan manfaat [taxonomy category field=name] berikut:
+[/if]- [field title] | link:[field url]
+[if last]
+Masing-masing [taxonomy category field=name] beri judul dengan link, gunakan icon font awesome, lalu tambahkan penjelasan 2-4 paragraf.
+Jangan gunakan kontak.
+Gunakan format html bootstrap 3, jangan gunakan tag <!DOCTYPE html>, <html>, <head>, <meta>,<title>,<body>, <h1> <header>,<footer>,<code>,<style>
+Jangan tambahkan link selain yang sudah diatur
+Jangan tambahkan script dan style eksternal, karena website sudah menggunakan font awesome dan bootstrap3.
+Tambahkan gambar ilustrasi yang bebas copyright dari sumber eksternal tentang website 
+[/if][/loop][/pass][/gemini]
+
+[gemini model=""gemini-1.5-pro"" br=""false"" savepost=""showonly""]Buat artikel menjelaskan penawaran untuk website untuk [taxonomy category field=name] [field title]  [pass field=fitur_visual][loop type=post id='{FIELD}'][if first] dan jelaskan manfaat [taxonomy category field=name] berikut:
+[/if]- [field title] | link:[field url]
+[if last]
+Masing-masing [taxonomy category field=name] beri judul dengan link, gunakan icon font awesome, lalu tambahkan penjelasan 2-4 paragraf.
+Jangan gunakan kontak.
+Gunakan format html bootstrap 3, jangan gunakan tag <!DOCTYPE html>, <html>, <head>, <meta>,<title>,<body>, <h1> <header>,<footer>,<code>,<style>
+Jangan tambahkan link selain yang sudah diatur
+Jangan tambahkan script dan style eksternal, karena website sudah menggunakan font awesome dan bootstrap3.
+Tambahkan gambar ilustrasi yang bebas copyright dari sumber eksternal tentang website 
+[/if][/loop][/pass][/gemini]
+
+[gemini model=""gemini-1.5-pro"" br=""false"" savepost=""showonly""]Buat artikel penawaran untuk memiliki website untuk [taxonomy category field=name] [field title]  [pass field=fitur_ditawarkan][loop type=post id='{FIELD}'][if first] dan jelaskan manfaat [taxonomy category field=name] berikut:
+[/if]- [field title] | link:[field url]
+[if last]
+Masing-masing [taxonomy category field=name] beri judul dengan link, gunakan icon font awesome, lalu tambahkan penjelasan 2-4 paragraf.
+Jangan gunakan kontak.
+Gunakan format html bootstrap 3, jangan gunakan tag <!DOCTYPE html>, <html>, <head>, <meta>,<title>,<body>, <h1> <header>,<footer>,<code>,<style>
+Jangan tambahkan link selain yang sudah diatur
+Jangan tambahkan script dan style eksternal, karena website sudah menggunakan font awesome dan bootstrap3.
+Tambahkan gambar ilustrasi yang bebas copyright dari sumber eksternal tentang website 
+[/if][/loop][/pass][/gemini]
+
+[gemini model=""gemini-1.5-pro"" br=""false"" savepost=""showonly""]Buat artikel penawaran untuk memiliki website untuk [taxonomy category field=name] [field title]  [pass field=penawaran_marketing][loop type=post id='{FIELD}'][if first] dan jelaskan manfaat [taxonomy category field=name] berikut:
+[/if]- [field title] | link:[field url]
+[if last]
+Masing-masing [taxonomy category field=name] beri judul dengan link, gunakan icon font awesome, lalu tambahkan penjelasan 2-4 paragraf.
+Jangan gunakan kontak.
+Gunakan format html bootstrap 3, jangan gunakan tag <!DOCTYPE html>, <html>, <head>, <meta>,<title>,<body>, <h1> <header>,<footer>,<code>,<style>
+Jangan tambahkan link selain yang sudah diatur
+Jangan tambahkan script dan style eksternal, karena website sudah menggunakan font awesome dan bootstrap3.
+Tambahkan gambar ilustrasi yang bebas copyright dari sumber eksternal tentang website 
+[/if][/loop][/pass][/gemini][/savethepost]",Jasa-Pembuatan-Website-Komunitas.jpg
+13,Landing Page,Jenis Website,"14,16,18,20,21,22,23,25","26,27,28,29,30,31,33","34,35","39,36,38,37",,,,,"[savethepost savepost=""post_content""][gemini model=""gemini-1.5-pro"" br=""false"" savepost=""showonly""]Buat artikel menjelaskan pentingnya untuk memiliki website untuk [taxonomy category field=name] [field title]
+Jangan gunakan kontak.
+Gunakan format html bootstrap 3, jangan gunakan tag <!DOCTYPE html>, <html>, <head>, <meta>,<title>,<body>, <h1> <header>,<footer>,<code>,<style>
+Jangan tambahkan script dan style eksternal, karena website sudah menggunakan font awesome dan bootstrap3.
+Tambahkan gambar ilustrasi yang bebas copyright dari sumber eksternal tentang website [field title][/gemini]
+
+
+[gemini model=""gemini-1.5-pro"" br=""false"" savepost=""showonly""]Buat artikel menjelaskan penawaran untuk website untuk [taxonomy category field=name] [field title]  [pass field=fitur_fungsi][loop type=post id='{FIELD}'][if first] dan jelaskan manfaat [taxonomy category field=name] berikut:
+[/if]- [field title] | link:[field url]
+[if last]
+Masing-masing [taxonomy category field=name] beri judul dengan link, gunakan icon font awesome, lalu tambahkan penjelasan 2-4 paragraf.
+Jangan gunakan kontak.
+Gunakan format html bootstrap 3, jangan gunakan tag <!DOCTYPE html>, <html>, <head>, <meta>,<title>,<body>, <h1> <header>,<footer>,<code>,<style>
+Jangan tambahkan link selain yang sudah diatur
+Jangan tambahkan script dan style eksternal, karena website sudah menggunakan font awesome dan bootstrap3.
+Tambahkan gambar ilustrasi yang bebas copyright dari sumber eksternal tentang website 
+[/if][/loop][/pass][/gemini]
+
+[gemini model=""gemini-1.5-pro"" br=""false"" savepost=""showonly""]Buat artikel menjelaskan penawaran untuk website untuk [taxonomy category field=name] [field title]  [pass field=fitur_visual][loop type=post id='{FIELD}'][if first] dan jelaskan manfaat [taxonomy category field=name] berikut:
+[/if]- [field title] | link:[field url]
+[if last]
+Masing-masing [taxonomy category field=name] beri judul dengan link, gunakan icon font awesome, lalu tambahkan penjelasan 2-4 paragraf.
+Jangan gunakan kontak.
+Gunakan format html bootstrap 3, jangan gunakan tag <!DOCTYPE html>, <html>, <head>, <meta>,<title>,<body>, <h1> <header>,<footer>,<code>,<style>
+Jangan tambahkan link selain yang sudah diatur
+Jangan tambahkan script dan style eksternal, karena website sudah menggunakan font awesome dan bootstrap3.
+Tambahkan gambar ilustrasi yang bebas copyright dari sumber eksternal tentang website 
+[/if][/loop][/pass][/gemini]
+
+[gemini model=""gemini-1.5-pro"" br=""false"" savepost=""showonly""]Buat artikel penawaran untuk memiliki website untuk [taxonomy category field=name] [field title]  [pass field=fitur_ditawarkan][loop type=post id='{FIELD}'][if first] dan jelaskan manfaat [taxonomy category field=name] berikut:
+[/if]- [field title] | link:[field url]
+[if last]
+Masing-masing [taxonomy category field=name] beri judul dengan link, gunakan icon font awesome, lalu tambahkan penjelasan 2-4 paragraf.
+Jangan gunakan kontak.
+Gunakan format html bootstrap 3, jangan gunakan tag <!DOCTYPE html>, <html>, <head>, <meta>,<title>,<body>, <h1> <header>,<footer>,<code>,<style>
+Jangan tambahkan link selain yang sudah diatur
+Jangan tambahkan script dan style eksternal, karena website sudah menggunakan font awesome dan bootstrap3.
+Tambahkan gambar ilustrasi yang bebas copyright dari sumber eksternal tentang website 
+[/if][/loop][/pass][/gemini]
+
+[gemini model=""gemini-1.5-pro"" br=""false"" savepost=""showonly""]Buat artikel penawaran untuk memiliki website untuk [taxonomy category field=name] [field title]  [pass field=penawaran_marketing][loop type=post id='{FIELD}'][if first] dan jelaskan manfaat [taxonomy category field=name] berikut:
+[/if]- [field title] | link:[field url]
+[if last]
+Masing-masing [taxonomy category field=name] beri judul dengan link, gunakan icon font awesome, lalu tambahkan penjelasan 2-4 paragraf.
+Jangan gunakan kontak.
+Gunakan format html bootstrap 3, jangan gunakan tag <!DOCTYPE html>, <html>, <head>, <meta>,<title>,<body>, <h1> <header>,<footer>,<code>,<style>
+Jangan tambahkan link selain yang sudah diatur
+Jangan tambahkan script dan style eksternal, karena website sudah menggunakan font awesome dan bootstrap3.
+Tambahkan gambar ilustrasi yang bebas copyright dari sumber eksternal tentang website 
+[/if][/loop][/pass][/gemini][/savethepost]",Jasa-Pembuatan-Website-Landing-Page.jpg
+14,Analytics,Fitur Fungsi,,,,,"6,7,8,9,10,11,12,13",,,,"[savethepost savepost=""post_content""][gemini model=""gemini-1.5-pro"" br=""false"" savepost=""showonly""]Buat artikel menjelaskan manfaat untuk memiliki website dengan [taxonomy category field=name] [field title]
+Jangan gunakan kontak.
+Gunakan format html bootstrap 3, jangan gunakan tag <!DOCTYPE html>, <html>, <head>, <meta>,<title>,<body>, <h1> <header>,<footer>,<code>,<style>
+Jangan tambahkan script dan style eksternal, karena website sudah menggunakan font awesome dan bootstrap3.
+Tambahkan gambar ilustrasi yang bebas copyright dari sumber eksternal tentang website [field title][/gemini]
+
+[gemini model=""gemini-1.5-pro"" br=""false"" savepost=""showonly""]Buat artikel penawaran untuk memiliki website dengan [taxonomy category field=name] [field title] dan [pass field=web_fitur_fungsi][loop type=post id='{FIELD}'][if first]jelaskan manfaatnya untuk [taxonomy category field=name] berikut:
+[/if]- [field title] | link:[field url]
+[if last]
+Masing-masing [taxonomy category field=name] beri judul dengan link, gunakan icon font awesome, lalu tambahkan penjelasan 2-4 paragraf.
+Jangan gunakan kontak.
+Gunakan format html bootstrap 3, jangan gunakan tag <!DOCTYPE html>, <html>, <head>, <meta>,<title>,<body>, <h1> <header>,<footer>,<code>,<style>
+Jangan tambahkan link selain yang sudah diatur
+Jangan tambahkan script dan style eksternal, karena website sudah menggunakan font awesome dan bootstrap3.
+Tambahkan gambar ilustrasi yang bebas copyright dari sumber eksternal tentang website 
+[/if][/loop][/pass][/gemini][/savethepost]",Jasa-Website-Analisa-Analytics.jpg
+15,"Blog, Artikel, Informasi & Berita",Fitur Fungsi,,,,,"6,7,8,9,10,11,12",,,,"[savethepost savepost=""post_content""][gemini model=""gemini-1.5-pro"" br=""false"" savepost=""showonly""]Buat artikel menjelaskan manfaat untuk memiliki website dengan [taxonomy category field=name] [field title]
+Jangan gunakan kontak.
+Gunakan format html bootstrap 3, jangan gunakan tag <!DOCTYPE html>, <html>, <head>, <meta>,<title>,<body>, <h1> <header>,<footer>,<code>,<style>
+Jangan tambahkan script dan style eksternal, karena website sudah menggunakan font awesome dan bootstrap3.
+Tambahkan gambar ilustrasi yang bebas copyright dari sumber eksternal tentang website [field title][/gemini]
+
+[gemini model=""gemini-1.5-pro"" br=""false"" savepost=""showonly""]Buat artikel penawaran untuk memiliki website dengan [taxonomy category field=name] [field title] dan [pass field=web_fitur_fungsi][loop type=post id='{FIELD}'][if first]jelaskan manfaatnya untuk [taxonomy category field=name] berikut:
+[/if]- [field title] | link:[field url]
+[if last]
+Masing-masing [taxonomy category field=name] beri judul dengan link, gunakan icon font awesome, lalu tambahkan penjelasan 2-4 paragraf.
+Jangan gunakan kontak.
+Gunakan format html bootstrap 3, jangan gunakan tag <!DOCTYPE html>, <html>, <head>, <meta>,<title>,<body>, <h1> <header>,<footer>,<code>,<style>
+Jangan tambahkan link selain yang sudah diatur
+Jangan tambahkan script dan style eksternal, karena website sudah menggunakan font awesome dan bootstrap3.
+Tambahkan gambar ilustrasi yang bebas copyright dari sumber eksternal tentang website 
+[/if][/loop][/pass][/gemini][/savethepost]",Jasa-Website-Blog-Berita-Informasi-Artikel.jpg
+16,Call to Action (CTA),Fitur Fungsi,,,,,"6,7,11,13",,,,"[savethepost savepost=""post_content""][gemini model=""gemini-1.5-pro"" br=""false"" savepost=""showonly""]Buat artikel menjelaskan manfaat untuk memiliki website dengan [taxonomy category field=name] [field title]
+Jangan gunakan kontak.
+Gunakan format html bootstrap 3, jangan gunakan tag <!DOCTYPE html>, <html>, <head>, <meta>,<title>,<body>, <h1> <header>,<footer>,<code>,<style>
+Jangan tambahkan script dan style eksternal, karena website sudah menggunakan font awesome dan bootstrap3.
+Tambahkan gambar ilustrasi yang bebas copyright dari sumber eksternal tentang website [field title][/gemini]
+
+[gemini model=""gemini-1.5-pro"" br=""false"" savepost=""showonly""]Buat artikel penawaran untuk memiliki website dengan [taxonomy category field=name] [field title] dan [pass field=web_fitur_fungsi][loop type=post id='{FIELD}'][if first]jelaskan manfaatnya untuk [taxonomy category field=name] berikut:
+[/if]- [field title] | link:[field url]
+[if last]
+Masing-masing [taxonomy category field=name] beri judul dengan link, gunakan icon font awesome, lalu tambahkan penjelasan 2-4 paragraf.
+Jangan gunakan kontak.
+Gunakan format html bootstrap 3, jangan gunakan tag <!DOCTYPE html>, <html>, <head>, <meta>,<title>,<body>, <h1> <header>,<footer>,<code>,<style>
+Jangan tambahkan link selain yang sudah diatur
+Jangan tambahkan script dan style eksternal, karena website sudah menggunakan font awesome dan bootstrap3.
+Tambahkan gambar ilustrasi yang bebas copyright dari sumber eksternal tentang website 
+[/if][/loop][/pass][/gemini][/savethepost]",Jasa-Website-CTA.jpg
+17,Database,Fitur Fungsi,,,,,"6,7,10,11,12",,,,"[savethepost savepost=""post_content""][gemini model=""gemini-1.5-pro"" br=""false"" savepost=""showonly""]Buat artikel menjelaskan manfaat untuk memiliki website dengan [taxonomy category field=name] [field title]
+Jangan gunakan kontak.
+Gunakan format html bootstrap 3, jangan gunakan tag <!DOCTYPE html>, <html>, <head>, <meta>,<title>,<body>, <h1> <header>,<footer>,<code>,<style>
+Jangan tambahkan script dan style eksternal, karena website sudah menggunakan font awesome dan bootstrap3.
+Tambahkan gambar ilustrasi yang bebas copyright dari sumber eksternal tentang website [field title][/gemini]
+
+[gemini model=""gemini-1.5-pro"" br=""false"" savepost=""showonly""]Buat artikel penawaran untuk memiliki website dengan [taxonomy category field=name] [field title] dan [pass field=web_fitur_fungsi][loop type=post id='{FIELD}'][if first]jelaskan manfaatnya untuk [taxonomy category field=name] berikut:
+[/if]- [field title] | link:[field url]
+[if last]
+Masing-masing [taxonomy category field=name] beri judul dengan link, gunakan icon font awesome, lalu tambahkan penjelasan 2-4 paragraf.
+Jangan gunakan kontak.
+Gunakan format html bootstrap 3, jangan gunakan tag <!DOCTYPE html>, <html>, <head>, <meta>,<title>,<body>, <h1> <header>,<footer>,<code>,<style>
+Jangan tambahkan link selain yang sudah diatur
+Jangan tambahkan script dan style eksternal, karena website sudah menggunakan font awesome dan bootstrap3.
+Tambahkan gambar ilustrasi yang bebas copyright dari sumber eksternal tentang website 
+[/if][/loop][/pass][/gemini][/savethepost]",Jasa-Website-Database.jpg
+18,Formulir & Kontak,Fitur Fungsi,,,,,"6,11,12,13",,,,"[savethepost savepost=""post_content""][gemini model=""gemini-1.5-pro"" br=""false"" savepost=""showonly""]Buat artikel menjelaskan manfaat untuk memiliki website dengan [taxonomy category field=name] [field title]
+Jangan gunakan kontak.
+Gunakan format html bootstrap 3, jangan gunakan tag <!DOCTYPE html>, <html>, <head>, <meta>,<title>,<body>, <h1> <header>,<footer>,<code>,<style>
+Jangan tambahkan script dan style eksternal, karena website sudah menggunakan font awesome dan bootstrap3.
+Tambahkan gambar ilustrasi yang bebas copyright dari sumber eksternal tentang website [field title][/gemini]
+
+[gemini model=""gemini-1.5-pro"" br=""false"" savepost=""showonly""]Buat artikel penawaran untuk memiliki website dengan [taxonomy category field=name] [field title] dan [pass field=web_fitur_fungsi][loop type=post id='{FIELD}'][if first]jelaskan manfaatnya untuk [taxonomy category field=name] berikut:
+[/if]- [field title] | link:[field url]
+[if last]
+Masing-masing [taxonomy category field=name] beri judul dengan link, gunakan icon font awesome, lalu tambahkan penjelasan 2-4 paragraf.
+Jangan gunakan kontak.
+Gunakan format html bootstrap 3, jangan gunakan tag <!DOCTYPE html>, <html>, <head>, <meta>,<title>,<body>, <h1> <header>,<footer>,<code>,<style>
+Jangan tambahkan link selain yang sudah diatur
+Jangan tambahkan script dan style eksternal, karena website sudah menggunakan font awesome dan bootstrap3.
+Tambahkan gambar ilustrasi yang bebas copyright dari sumber eksternal tentang website 
+[/if][/loop][/pass][/gemini][/savethepost]",Jasa-Website-Formulir-Pendaftan-Kontak.jpg
+19,Integrasi Sosial Media,Fitur Fungsi,,,,,"6,8,9,10,11,12",,,,"[savethepost savepost=""post_content""][gemini model=""gemini-1.5-pro"" br=""false"" savepost=""showonly""]Buat artikel menjelaskan manfaat untuk memiliki website dengan [taxonomy category field=name] [field title]
+Jangan gunakan kontak.
+Gunakan format html bootstrap 3, jangan gunakan tag <!DOCTYPE html>, <html>, <head>, <meta>,<title>,<body>, <h1> <header>,<footer>,<code>,<style>
+Jangan tambahkan script dan style eksternal, karena website sudah menggunakan font awesome dan bootstrap3.
+Tambahkan gambar ilustrasi yang bebas copyright dari sumber eksternal tentang website [field title][/gemini]
+
+[gemini model=""gemini-1.5-pro"" br=""false"" savepost=""showonly""]Buat artikel penawaran untuk memiliki website dengan [taxonomy category field=name] [field title] dan [pass field=web_fitur_fungsi][loop type=post id='{FIELD}'][if first]jelaskan manfaatnya untuk [taxonomy category field=name] berikut:
+[/if]- [field title] | link:[field url]
+[if last]
+Masing-masing [taxonomy category field=name] beri judul dengan link, gunakan icon font awesome, lalu tambahkan penjelasan 2-4 paragraf.
+Jangan gunakan kontak.
+Gunakan format html bootstrap 3, jangan gunakan tag <!DOCTYPE html>, <html>, <head>, <meta>,<title>,<body>, <h1> <header>,<footer>,<code>,<style>
+Jangan tambahkan link selain yang sudah diatur
+Jangan tambahkan script dan style eksternal, karena website sudah menggunakan font awesome dan bootstrap3.
+Tambahkan gambar ilustrasi yang bebas copyright dari sumber eksternal tentang website 
+[/if][/loop][/pass][/gemini][/savethepost]",Jasa-Website-Integrasi-Sosial-Media.jpg
+20,Keamanan,Fitur Fungsi,,,,,"6,7,8,9,10,11,12,13",,,,"[savethepost savepost=""post_content""][gemini model=""gemini-1.5-pro"" br=""false"" savepost=""showonly""]Buat artikel menjelaskan manfaat untuk memiliki website dengan [taxonomy category field=name] [field title]
+Jangan gunakan kontak.
+Gunakan format html bootstrap 3, jangan gunakan tag <!DOCTYPE html>, <html>, <head>, <meta>,<title>,<body>, <h1> <header>,<footer>,<code>,<style>
+Jangan tambahkan script dan style eksternal, karena website sudah menggunakan font awesome dan bootstrap3.
+Tambahkan gambar ilustrasi yang bebas copyright dari sumber eksternal tentang website [field title][/gemini]
+
+[gemini model=""gemini-1.5-pro"" br=""false"" savepost=""showonly""]Buat artikel penawaran untuk memiliki website dengan [taxonomy category field=name] [field title] dan [pass field=web_fitur_fungsi][loop type=post id='{FIELD}'][if first]jelaskan manfaatnya untuk [taxonomy category field=name] berikut:
+[/if]- [field title] | link:[field url]
+[if last]
+Masing-masing [taxonomy category field=name] beri judul dengan link, gunakan icon font awesome, lalu tambahkan penjelasan 2-4 paragraf.
+Jangan gunakan kontak.
+Gunakan format html bootstrap 3, jangan gunakan tag <!DOCTYPE html>, <html>, <head>, <meta>,<title>,<body>, <h1> <header>,<footer>,<code>,<style>
+Jangan tambahkan link selain yang sudah diatur
+Jangan tambahkan script dan style eksternal, karena website sudah menggunakan font awesome dan bootstrap3.
+Tambahkan gambar ilustrasi yang bebas copyright dari sumber eksternal tentang website 
+[/if][/loop][/pass][/gemini][/savethepost]",Jasa-Website-Kemanan-Security.jpg
+21,Multi Bahasa,Fitur Fungsi,,,,,"6,7,13",,,,"[savethepost savepost=""post_content""][gemini model=""gemini-1.5-pro"" br=""false"" savepost=""showonly""]Buat artikel menjelaskan manfaat untuk memiliki website dengan [taxonomy category field=name] [field title]
+Jangan gunakan kontak.
+Gunakan format html bootstrap 3, jangan gunakan tag <!DOCTYPE html>, <html>, <head>, <meta>,<title>,<body>, <h1> <header>,<footer>,<code>,<style>
+Jangan tambahkan script dan style eksternal, karena website sudah menggunakan font awesome dan bootstrap3.
+Tambahkan gambar ilustrasi yang bebas copyright dari sumber eksternal tentang website [field title][/gemini]
+
+[gemini model=""gemini-1.5-pro"" br=""false"" savepost=""showonly""]Buat artikel penawaran untuk memiliki website dengan [taxonomy category field=name] [field title] dan [pass field=web_fitur_fungsi][loop type=post id='{FIELD}'][if first]jelaskan manfaatnya untuk [taxonomy category field=name] berikut:
+[/if]- [field title] | link:[field url]
+[if last]
+Masing-masing [taxonomy category field=name] beri judul dengan link, gunakan icon font awesome, lalu tambahkan penjelasan 2-4 paragraf.
+Jangan gunakan kontak.
+Gunakan format html bootstrap 3, jangan gunakan tag <!DOCTYPE html>, <html>, <head>, <meta>,<title>,<body>, <h1> <header>,<footer>,<code>,<style>
+Jangan tambahkan link selain yang sudah diatur
+Jangan tambahkan script dan style eksternal, karena website sudah menggunakan font awesome dan bootstrap3.
+Tambahkan gambar ilustrasi yang bebas copyright dari sumber eksternal tentang website 
+[/if][/loop][/pass][/gemini][/savethepost]",Jasa-Website-Multi-Bahasa.jpg
+22,Pembayaran Online/Payment Gateway,Fitur Fungsi,,,,,"6,7,11,12,13",,,,"[savethepost savepost=""post_content""][gemini model=""gemini-1.5-pro"" br=""false"" savepost=""showonly""]Buat artikel menjelaskan manfaat untuk memiliki website dengan [taxonomy category field=name] [field title]
+Jangan gunakan kontak.
+Gunakan format html bootstrap 3, jangan gunakan tag <!DOCTYPE html>, <html>, <head>, <meta>,<title>,<body>, <h1> <header>,<footer>,<code>,<style>
+Jangan tambahkan script dan style eksternal, karena website sudah menggunakan font awesome dan bootstrap3.
+Tambahkan gambar ilustrasi yang bebas copyright dari sumber eksternal tentang website [field title][/gemini]
+
+[gemini model=""gemini-1.5-pro"" br=""false"" savepost=""showonly""]Buat artikel penawaran untuk memiliki website dengan [taxonomy category field=name] [field title] dan [pass field=web_fitur_fungsi][loop type=post id='{FIELD}'][if first]jelaskan manfaatnya untuk [taxonomy category field=name] berikut:
+[/if]- [field title] | link:[field url]
+[if last]
+Masing-masing [taxonomy category field=name] beri judul dengan link, gunakan icon font awesome, lalu tambahkan penjelasan 2-4 paragraf.
+Jangan gunakan kontak.
+Gunakan format html bootstrap 3, jangan gunakan tag <!DOCTYPE html>, <html>, <head>, <meta>,<title>,<body>, <h1> <header>,<footer>,<code>,<style>
+Jangan tambahkan link selain yang sudah diatur
+Jangan tambahkan script dan style eksternal, karena website sudah menggunakan font awesome dan bootstrap3.
+Tambahkan gambar ilustrasi yang bebas copyright dari sumber eksternal tentang website 
+[/if][/loop][/pass][/gemini][/savethepost]",Jasa-Website-Payment-Gateway.jpg
+23,Pendaftaran & Keanggotaan,Fitur Fungsi,,,,,"6,7,10,11,12,13",,,,"[savethepost savepost=""post_content""][gemini model=""gemini-1.5-pro"" br=""false"" savepost=""showonly""]Buat artikel menjelaskan manfaat untuk memiliki website dengan [taxonomy category field=name] [field title]
+Jangan gunakan kontak.
+Gunakan format html bootstrap 3, jangan gunakan tag <!DOCTYPE html>, <html>, <head>, <meta>,<title>,<body>, <h1> <header>,<footer>,<code>,<style>
+Jangan tambahkan script dan style eksternal, karena website sudah menggunakan font awesome dan bootstrap3.
+Tambahkan gambar ilustrasi yang bebas copyright dari sumber eksternal tentang website [field title][/gemini]
+
+[gemini model=""gemini-1.5-pro"" br=""false"" savepost=""showonly""]Buat artikel penawaran untuk memiliki website dengan [taxonomy category field=name] [field title] dan [pass field=web_fitur_fungsi][loop type=post id='{FIELD}'][if first]jelaskan manfaatnya untuk [taxonomy category field=name] berikut:
+[/if]- [field title] | link:[field url]
+[if last]
+Masing-masing [taxonomy category field=name] beri judul dengan link, gunakan icon font awesome, lalu tambahkan penjelasan 2-4 paragraf.
+Jangan gunakan kontak.
+Gunakan format html bootstrap 3, jangan gunakan tag <!DOCTYPE html>, <html>, <head>, <meta>,<title>,<body>, <h1> <header>,<footer>,<code>,<style>
+Jangan tambahkan link selain yang sudah diatur
+Jangan tambahkan script dan style eksternal, karena website sudah menggunakan font awesome dan bootstrap3.
+Tambahkan gambar ilustrasi yang bebas copyright dari sumber eksternal tentang website 
+[/if][/loop][/pass][/gemini][/savethepost]",Jasa-Website-Pendaftaran-Keanggotaan.jpg
+24,Peta,Fitur Fungsi,,,,,"6,11",,,,"[savethepost savepost=""post_content""][gemini model=""gemini-1.5-pro"" br=""false"" savepost=""showonly""]Buat artikel menjelaskan manfaat untuk memiliki website dengan [taxonomy category field=name] [field title]
+Jangan gunakan kontak.
+Gunakan format html bootstrap 3, jangan gunakan tag <!DOCTYPE html>, <html>, <head>, <meta>,<title>,<body>, <h1> <header>,<footer>,<code>,<style>
+Jangan tambahkan script dan style eksternal, karena website sudah menggunakan font awesome dan bootstrap3.
+Tambahkan gambar ilustrasi yang bebas copyright dari sumber eksternal tentang website [field title][/gemini]
+
+[gemini model=""gemini-1.5-pro"" br=""false"" savepost=""showonly""]Buat artikel penawaran untuk memiliki website dengan [taxonomy category field=name] [field title] dan [pass field=web_fitur_fungsi][loop type=post id='{FIELD}'][if first]jelaskan manfaatnya untuk [taxonomy category field=name] berikut:
+[/if]- [field title] | link:[field url]
+[if last]
+Masing-masing [taxonomy category field=name] beri judul dengan link, gunakan icon font awesome, lalu tambahkan penjelasan 2-4 paragraf.
+Jangan gunakan kontak.
+Gunakan format html bootstrap 3, jangan gunakan tag <!DOCTYPE html>, <html>, <head>, <meta>,<title>,<body>, <h1> <header>,<footer>,<code>,<style>
+Jangan tambahkan link selain yang sudah diatur
+Jangan tambahkan script dan style eksternal, karena website sudah menggunakan font awesome dan bootstrap3.
+Tambahkan gambar ilustrasi yang bebas copyright dari sumber eksternal tentang website 
+[/if][/loop][/pass][/gemini][/savethepost]",Jasa-Website-Map-Peta.jpg
+25,SEO ,Fitur Fungsi,,,,,"6,7,8,9,11,13",,,,"[savethepost savepost=""post_content""][gemini model=""gemini-1.5-pro"" br=""false"" savepost=""showonly""]Buat artikel menjelaskan manfaat untuk memiliki website dengan [taxonomy category field=name] [field title]
+Jangan gunakan kontak.
+Gunakan format html bootstrap 3, jangan gunakan tag <!DOCTYPE html>, <html>, <head>, <meta>,<title>,<body>, <h1> <header>,<footer>,<code>,<style>
+Jangan tambahkan script dan style eksternal, karena website sudah menggunakan font awesome dan bootstrap3.
+Tambahkan gambar ilustrasi yang bebas copyright dari sumber eksternal tentang website [field title][/gemini]
+
+[gemini model=""gemini-1.5-pro"" br=""false"" savepost=""showonly""]Buat artikel penawaran untuk memiliki website dengan [taxonomy category field=name] [field title] dan [pass field=web_fitur_fungsi][loop type=post id='{FIELD}'][if first]jelaskan manfaatnya untuk [taxonomy category field=name] berikut:
+[/if]- [field title] | link:[field url]
+[if last]
+Masing-masing [taxonomy category field=name] beri judul dengan link, gunakan icon font awesome, lalu tambahkan penjelasan 2-4 paragraf.
+Jangan gunakan kontak.
+Gunakan format html bootstrap 3, jangan gunakan tag <!DOCTYPE html>, <html>, <head>, <meta>,<title>,<body>, <h1> <header>,<footer>,<code>,<style>
+Jangan tambahkan link selain yang sudah diatur
+Jangan tambahkan script dan style eksternal, karena website sudah menggunakan font awesome dan bootstrap3.
+Tambahkan gambar ilustrasi yang bebas copyright dari sumber eksternal tentang website 
+[/if][/loop][/pass][/gemini][/savethepost]",Jasa-Web-SEO.jpeg
+26,Galeri,Fitur Visual,,,,,,"6,8,9,10,11,12,13",,,"[savethepost savepost=""post_content""][gemini model=""gemini-1.5-pro"" br=""false"" savepost=""showonly""]Buat artikel menjelaskan manfaat untuk memiliki website dengan [taxonomy category field=name] [field title]
+Jangan gunakan kontak.
+Gunakan format html bootstrap 3, jangan gunakan tag <!DOCTYPE html>, <html>, <head>, <meta>,<title>,<body>, <h1> <header>,<footer>,<code>,<style>
+Jangan tambahkan script dan style eksternal, karena website sudah menggunakan font awesome dan bootstrap3.
+Tambahkan gambar ilustrasi yang bebas copyright dari sumber eksternal tentang website [field title][/gemini]
+
+[gemini model=""gemini-1.5-pro"" br=""false"" savepost=""showonly""]Buat artikel penawaran untuk memiliki website dengan [taxonomy category field=name] [field title] dan [pass field=web_fitur_visual][loop type=post id='{FIELD}'][if first]jelaskan manfaatnya untuk [taxonomy category field=name] berikut:
+[/if]- [field title] | link:[field url]
+[if last]
+Masing-masing [taxonomy category field=name] beri judul dengan link, gunakan icon font awesome, lalu tambahkan penjelasan 2-4 paragraf.
+Jangan gunakan kontak.
+Gunakan format html bootstrap 3, jangan gunakan tag <!DOCTYPE html>, <html>, <head>, <meta>,<title>,<body>, <h1> <header>,<footer>,<code>,<style>
+Jangan tambahkan link selain yang sudah diatur
+Jangan tambahkan script dan style eksternal, karena website sudah menggunakan font awesome dan bootstrap3.
+Tambahkan gambar ilustrasi yang bebas copyright dari sumber eksternal tentang website 
+[/if][/loop][/pass][/gemini][/savethepost]",Jasa-Website-Galeri.jpg
+27,Slideshow & Hero Banner,Fitur Visual,,,,,,"6,7,8,9,10,11,12,13",,,"[savethepost savepost=""post_content""][gemini model=""gemini-1.5-pro"" br=""false"" savepost=""showonly""]Buat artikel menjelaskan manfaat untuk memiliki website dengan [taxonomy category field=name] [field title]
+Jangan gunakan kontak.
+Gunakan format html bootstrap 3, jangan gunakan tag <!DOCTYPE html>, <html>, <head>, <meta>,<title>,<body>, <h1> <header>,<footer>,<code>,<style>
+Jangan tambahkan script dan style eksternal, karena website sudah menggunakan font awesome dan bootstrap3.
+Tambahkan gambar ilustrasi yang bebas copyright dari sumber eksternal tentang website [field title][/gemini]
+
+[gemini model=""gemini-1.5-pro"" br=""false"" savepost=""showonly""]Buat artikel penawaran untuk memiliki website dengan [taxonomy category field=name] [field title] dan [pass field=web_fitur_visual][loop type=post id='{FIELD}'][if first]jelaskan manfaatnya untuk [taxonomy category field=name] berikut:
+[/if]- [field title] | link:[field url]
+[if last]
+Masing-masing [taxonomy category field=name] beri judul dengan link, gunakan icon font awesome, lalu tambahkan penjelasan 2-4 paragraf.
+Jangan gunakan kontak.
+Gunakan format html bootstrap 3, jangan gunakan tag <!DOCTYPE html>, <html>, <head>, <meta>,<title>,<body>, <h1> <header>,<footer>,<code>,<style>
+Jangan tambahkan link selain yang sudah diatur
+Jangan tambahkan script dan style eksternal, karena website sudah menggunakan font awesome dan bootstrap3.
+Tambahkan gambar ilustrasi yang bebas copyright dari sumber eksternal tentang website 
+[/if][/loop][/pass][/gemini][/savethepost]",Jasa-Website-Slideshow-Hero-Banner.jpg
+28,Video,Fitur Visual,,,,,,"6,7,8,9,10,11,12,13",,,"[savethepost savepost=""post_content""][gemini model=""gemini-1.5-pro"" br=""false"" savepost=""showonly""]Buat artikel menjelaskan manfaat untuk memiliki website dengan [taxonomy category field=name] [field title]
+Jangan gunakan kontak.
+Gunakan format html bootstrap 3, jangan gunakan tag <!DOCTYPE html>, <html>, <head>, <meta>,<title>,<body>, <h1> <header>,<footer>,<code>,<style>
+Jangan tambahkan script dan style eksternal, karena website sudah menggunakan font awesome dan bootstrap3.
+Tambahkan gambar ilustrasi yang bebas copyright dari sumber eksternal tentang website [field title][/gemini]
+
+[gemini model=""gemini-1.5-pro"" br=""false"" savepost=""showonly""]Buat artikel penawaran untuk memiliki website dengan [taxonomy category field=name] [field title] dan [pass field=web_fitur_visual][loop type=post id='{FIELD}'][if first]jelaskan manfaatnya untuk [taxonomy category field=name] berikut:
+[/if]- [field title] | link:[field url]
+[if last]
+Masing-masing [taxonomy category field=name] beri judul dengan link, gunakan icon font awesome, lalu tambahkan penjelasan 2-4 paragraf.
+Jangan gunakan kontak.
+Gunakan format html bootstrap 3, jangan gunakan tag <!DOCTYPE html>, <html>, <head>, <meta>,<title>,<body>, <h1> <header>,<footer>,<code>,<style>
+Jangan tambahkan link selain yang sudah diatur
+Jangan tambahkan script dan style eksternal, karena website sudah menggunakan font awesome dan bootstrap3.
+Tambahkan gambar ilustrasi yang bebas copyright dari sumber eksternal tentang website 
+[/if][/loop][/pass][/gemini][/savethepost]",Jasa-Website-Edit-Video.jpg
+29,Animasi,Fitur Visual,,,,,,"6,9,13",,,"[savethepost savepost=""post_content""][gemini model=""gemini-1.5-pro"" br=""false"" savepost=""showonly""]Buat artikel menjelaskan manfaat untuk memiliki website dengan [taxonomy category field=name] [field title]
+Jangan gunakan kontak.
+Gunakan format html bootstrap 3, jangan gunakan tag <!DOCTYPE html>, <html>, <head>, <meta>,<title>,<body>, <h1> <header>,<footer>,<code>,<style>
+Jangan tambahkan script dan style eksternal, karena website sudah menggunakan font awesome dan bootstrap3.
+Tambahkan gambar ilustrasi yang bebas copyright dari sumber eksternal tentang website [field title][/gemini]
+
+[gemini model=""gemini-1.5-pro"" br=""false"" savepost=""showonly""]Buat artikel penawaran untuk memiliki website dengan [taxonomy category field=name] [field title] dan [pass field=web_fitur_visual][loop type=post id='{FIELD}'][if first]jelaskan manfaatnya untuk [taxonomy category field=name] berikut:
+[/if]- [field title] | link:[field url]
+[if last]
+Masing-masing [taxonomy category field=name] beri judul dengan link, gunakan icon font awesome, lalu tambahkan penjelasan 2-4 paragraf.
+Jangan gunakan kontak.
+Gunakan format html bootstrap 3, jangan gunakan tag <!DOCTYPE html>, <html>, <head>, <meta>,<title>,<body>, <h1> <header>,<footer>,<code>,<style>
+Jangan tambahkan link selain yang sudah diatur
+Jangan tambahkan script dan style eksternal, karena website sudah menggunakan font awesome dan bootstrap3.
+Tambahkan gambar ilustrasi yang bebas copyright dari sumber eksternal tentang website 
+[/if][/loop][/pass][/gemini][/savethepost]",Jasa-Website-Animasi.jpg
+30,Desain Grafis,Fitur Visual,,,,,,"6,10,11,12,13",,,"[savethepost savepost=""post_content""][gemini model=""gemini-1.5-pro"" br=""false"" savepost=""showonly""]Buat artikel menjelaskan manfaat untuk memiliki website dengan [taxonomy category field=name] [field title]
+Jangan gunakan kontak.
+Gunakan format html bootstrap 3, jangan gunakan tag <!DOCTYPE html>, <html>, <head>, <meta>,<title>,<body>, <h1> <header>,<footer>,<code>,<style>
+Jangan tambahkan script dan style eksternal, karena website sudah menggunakan font awesome dan bootstrap3.
+Tambahkan gambar ilustrasi yang bebas copyright dari sumber eksternal tentang website [field title][/gemini]
+
+[gemini model=""gemini-1.5-pro"" br=""false"" savepost=""showonly""]Buat artikel penawaran untuk memiliki website dengan [taxonomy category field=name] [field title] dan [pass field=web_fitur_visual][loop type=post id='{FIELD}'][if first]jelaskan manfaatnya untuk [taxonomy category field=name] berikut:
+[/if]- [field title] | link:[field url]
+[if last]
+Masing-masing [taxonomy category field=name] beri judul dengan link, gunakan icon font awesome, lalu tambahkan penjelasan 2-4 paragraf.
+Jangan gunakan kontak.
+Gunakan format html bootstrap 3, jangan gunakan tag <!DOCTYPE html>, <html>, <head>, <meta>,<title>,<body>, <h1> <header>,<footer>,<code>,<style>
+Jangan tambahkan link selain yang sudah diatur
+Jangan tambahkan script dan style eksternal, karena website sudah menggunakan font awesome dan bootstrap3.
+Tambahkan gambar ilustrasi yang bebas copyright dari sumber eksternal tentang website 
+[/if][/loop][/pass][/gemini][/savethepost]",Jasa-Website-Desain-Grafis.jpg
+31,Responsive Ponsel & Tablet,Fitur Visual,,,,,,"6,7,8,9,10,11,12,13",,,"[savethepost savepost=""post_content""][gemini model=""gemini-1.5-pro"" br=""false"" savepost=""showonly""]Buat artikel menjelaskan manfaat untuk memiliki website dengan [taxonomy category field=name] [field title]
+Jangan gunakan kontak.
+Gunakan format html bootstrap 3, jangan gunakan tag <!DOCTYPE html>, <html>, <head>, <meta>,<title>,<body>, <h1> <header>,<footer>,<code>,<style>
+Jangan tambahkan script dan style eksternal, karena website sudah menggunakan font awesome dan bootstrap3.
+Tambahkan gambar ilustrasi yang bebas copyright dari sumber eksternal tentang website [field title][/gemini]
+
+[gemini model=""gemini-1.5-pro"" br=""false"" savepost=""showonly""]Buat artikel penawaran untuk memiliki website dengan [taxonomy category field=name] [field title] dan [pass field=web_fitur_visual][loop type=post id='{FIELD}'][if first]jelaskan manfaatnya untuk [taxonomy category field=name] berikut:
+[/if]- [field title] | link:[field url]
+[if last]
+Masing-masing [taxonomy category field=name] beri judul dengan link, gunakan icon font awesome, lalu tambahkan penjelasan 2-4 paragraf.
+Jangan gunakan kontak.
+Gunakan format html bootstrap 3, jangan gunakan tag <!DOCTYPE html>, <html>, <head>, <meta>,<title>,<body>, <h1> <header>,<footer>,<code>,<style>
+Jangan tambahkan link selain yang sudah diatur
+Jangan tambahkan script dan style eksternal, karena website sudah menggunakan font awesome dan bootstrap3.
+Tambahkan gambar ilustrasi yang bebas copyright dari sumber eksternal tentang website 
+[/if][/loop][/pass][/gemini][/savethepost]",Jasa-Website-Desain-Responsif-Ponsel-Tablet-Laptop.jpg
+32,Navigasi,Fitur Visual,,,,,,"6,7,8,10,11",,,"[savethepost savepost=""post_content""][gemini model=""gemini-1.5-pro"" br=""false"" savepost=""showonly""]Buat artikel menjelaskan manfaat untuk memiliki website dengan [taxonomy category field=name] [field title]
+Jangan gunakan kontak.
+Gunakan format html bootstrap 3, jangan gunakan tag <!DOCTYPE html>, <html>, <head>, <meta>,<title>,<body>, <h1> <header>,<footer>,<code>,<style>
+Jangan tambahkan script dan style eksternal, karena website sudah menggunakan font awesome dan bootstrap3.
+Tambahkan gambar ilustrasi yang bebas copyright dari sumber eksternal tentang website [field title][/gemini]
+
+[gemini model=""gemini-1.5-pro"" br=""false"" savepost=""showonly""]Buat artikel penawaran untuk memiliki website dengan [taxonomy category field=name] [field title] dan [pass field=web_fitur_visual][loop type=post id='{FIELD}'][if first]jelaskan manfaatnya untuk [taxonomy category field=name] berikut:
+[/if]- [field title] | link:[field url]
+[if last]
+Masing-masing [taxonomy category field=name] beri judul dengan link, gunakan icon font awesome, lalu tambahkan penjelasan 2-4 paragraf.
+Jangan gunakan kontak.
+Gunakan format html bootstrap 3, jangan gunakan tag <!DOCTYPE html>, <html>, <head>, <meta>,<title>,<body>, <h1> <header>,<footer>,<code>,<style>
+Jangan tambahkan link selain yang sudah diatur
+Jangan tambahkan script dan style eksternal, karena website sudah menggunakan font awesome dan bootstrap3.
+Tambahkan gambar ilustrasi yang bebas copyright dari sumber eksternal tentang website 
+[/if][/loop][/pass][/gemini][/savethepost]",Jasa-Website-Navigasi.jpg
+33,Edit Foto,Fitur Visual,,,,,,"6,12,13",,,"[savethepost savepost=""post_content""][gemini model=""gemini-1.5-pro"" br=""false"" savepost=""showonly""]Buat artikel menjelaskan manfaat untuk memiliki website dengan [taxonomy category field=name] [field title]
+Jangan gunakan kontak.
+Gunakan format html bootstrap 3, jangan gunakan tag <!DOCTYPE html>, <html>, <head>, <meta>,<title>,<body>, <h1> <header>,<footer>,<code>,<style>
+Jangan tambahkan script dan style eksternal, karena website sudah menggunakan font awesome dan bootstrap3.
+Tambahkan gambar ilustrasi yang bebas copyright dari sumber eksternal tentang website [field title][/gemini]
+
+[gemini model=""gemini-1.5-pro"" br=""false"" savepost=""showonly""]Buat artikel penawaran untuk memiliki website dengan [taxonomy category field=name] [field title] dan [pass field=web_fitur_visual][loop type=post id='{FIELD}'][if first]jelaskan manfaatnya untuk [taxonomy category field=name] berikut:
+[/if]- [field title] | link:[field url]
+[if last]
+Masing-masing [taxonomy category field=name] beri judul dengan link, gunakan icon font awesome, lalu tambahkan penjelasan 2-4 paragraf.
+Jangan gunakan kontak.
+Gunakan format html bootstrap 3, jangan gunakan tag <!DOCTYPE html>, <html>, <head>, <meta>,<title>,<body>, <h1> <header>,<footer>,<code>,<style>
+Jangan tambahkan link selain yang sudah diatur
+Jangan tambahkan script dan style eksternal, karena website sudah menggunakan font awesome dan bootstrap3.
+Tambahkan gambar ilustrasi yang bebas copyright dari sumber eksternal tentang website 
+[/if][/loop][/pass][/gemini][/savethepost]",Jasa-Website-Edit-Foto.jpg
+34,Pembuatan Content dengan AI,Fitur Ditawarkan,,,,,,,"6,9,11,12,13",,"[savethepost savepost=""post_content""][gemini model=""gemini-1.5-pro"" br=""false"" savepost=""showonly""]Buat artikel menjelaskan manfaat untuk memiliki website dengan [taxonomy category field=name] [field title]
+Jangan gunakan kontak.
+Gunakan format html bootstrap 3, jangan gunakan tag <!DOCTYPE html>, <html>, <head>, <meta>,<title>,<body>, <h1> <header>,<footer>,<code>,<style>
+Jangan tambahkan script dan style eksternal, karena website sudah menggunakan font awesome dan bootstrap3.
+Tambahkan gambar ilustrasi yang bebas copyright dari sumber eksternal tentang website [field title][/gemini]
+
+[gemini model=""gemini-1.5-pro"" br=""false"" savepost=""showonly""]Buat artikel penawaran untuk memiliki website dengan [taxonomy category field=name] [field title] dan [pass field=web_fitur_ditawarkan][loop type=post id='{FIELD}'][if first]jelaskan manfaatnya untuk [taxonomy category field=name] berikut:
+[/if]- [field title] | link:[field url]
+[if last]
+Masing-masing [taxonomy category field=name] beri judul dengan link, gunakan icon font awesome, lalu tambahkan penjelasan 2-4 paragraf.
+Jangan gunakan kontak.
+Gunakan format html bootstrap 3, jangan gunakan tag <!DOCTYPE html>, <html>, <head>, <meta>,<title>,<body>, <h1> <header>,<footer>,<code>,<style>
+Jangan tambahkan link selain yang sudah diatur
+Jangan tambahkan script dan style eksternal, karena website sudah menggunakan font awesome dan bootstrap3.
+Tambahkan gambar ilustrasi yang bebas copyright dari sumber eksternal tentang website 
+[/if][/loop][/pass][/gemini][/savethepost]",Jasa-Website-Content-AI.jpg
+35,Pembuatan Foto & Grafis dengan AI,Fitur Ditawarkan,,,,,,,"6,11,12,13",,"[savethepost savepost=""post_content""][gemini model=""gemini-1.5-pro"" br=""false"" savepost=""showonly""]Buat artikel menjelaskan manfaat untuk memiliki website dengan [taxonomy category field=name] [field title]
+Jangan gunakan kontak.
+Gunakan format html bootstrap 3, jangan gunakan tag <!DOCTYPE html>, <html>, <head>, <meta>,<title>,<body>, <h1> <header>,<footer>,<code>,<style>
+Jangan tambahkan script dan style eksternal, karena website sudah menggunakan font awesome dan bootstrap3.
+Tambahkan gambar ilustrasi yang bebas copyright dari sumber eksternal tentang website [field title][/gemini]
+
+[gemini model=""gemini-1.5-pro"" br=""false"" savepost=""showonly""]Buat artikel penawaran untuk memiliki website dengan [taxonomy category field=name] [field title] dan [pass field=web_fitur_ditawarkan][loop type=post id='{FIELD}'][if first]jelaskan manfaatnya untuk [taxonomy category field=name] berikut:
+[/if]- [field title] | link:[field url]
+[if last]
+Masing-masing [taxonomy category field=name] beri judul dengan link, gunakan icon font awesome, lalu tambahkan penjelasan 2-4 paragraf.
+Jangan gunakan kontak.
+Gunakan format html bootstrap 3, jangan gunakan tag <!DOCTYPE html>, <html>, <head>, <meta>,<title>,<body>, <h1> <header>,<footer>,<code>,<style>
+Jangan tambahkan link selain yang sudah diatur
+Jangan tambahkan script dan style eksternal, karena website sudah menggunakan font awesome dan bootstrap3.
+Tambahkan gambar ilustrasi yang bebas copyright dari sumber eksternal tentang website 
+[/if][/loop][/pass][/gemini][/savethepost]",Jasa-Foto-Grafis-AI.jpg
+36,Iklan Google Ads,Penawaran Marketing,,,,,,,,"6,7,11,13","[savethepost savepost=""post_content""][gemini model=""gemini-1.5-pro"" br=""false"" savepost=""showonly""]Buat artikel menjelaskan manfaat untuk memiliki website dengan [taxonomy category field=name] [field title]
+Jangan gunakan kontak.
+Gunakan format html bootstrap 3, jangan gunakan tag <!DOCTYPE html>, <html>, <head>, <meta>,<title>,<body>, <h1> <header>,<footer>,<code>,<style>
+Jangan tambahkan script dan style eksternal, karena website sudah menggunakan font awesome dan bootstrap3.
+Tambahkan gambar ilustrasi yang bebas copyright dari sumber eksternal tentang website [field title][/gemini]
+
+[gemini model=""gemini-1.5-pro"" br=""false"" savepost=""showonly""]Buat artikel penawaran untuk memiliki website dengan [taxonomy category field=name] [field title] dan [pass field=web_penawaran_marketing][loop type=post id='{FIELD}'][if first]jelaskan manfaatnya untuk [taxonomy category field=name] berikut:
+[/if]- [field title] | link:[field url]
+[if last]
+Masing-masing [taxonomy category field=name] beri judul dengan link, gunakan icon font awesome, lalu tambahkan penjelasan 2-4 paragraf.
+Jangan gunakan kontak.
+Gunakan format html bootstrap 3, jangan gunakan tag <!DOCTYPE html>, <html>, <head>, <meta>,<title>,<body>, <h1> <header>,<footer>,<code>,<style>
+Jangan tambahkan link selain yang sudah diatur
+Jangan tambahkan script dan style eksternal, karena website sudah menggunakan font awesome dan bootstrap3.
+Tambahkan gambar ilustrasi yang bebas copyright dari sumber eksternal tentang website 
+[/if][/loop][/pass][/gemini][/savethepost]",Jasa-Iklan-Google-Ads.jpg
+37,"Sosial Media, Facebook, Instagram, Tiktok",Penawaran Marketing,,,,,,,,"6,7,8,9,10,11,12,13","[savethepost savepost=""post_content""][gemini model=""gemini-1.5-pro"" br=""false"" savepost=""showonly""]Buat artikel menjelaskan manfaat untuk memiliki website dengan [taxonomy category field=name] [field title]
+Jangan gunakan kontak.
+Gunakan format html bootstrap 3, jangan gunakan tag <!DOCTYPE html>, <html>, <head>, <meta>,<title>,<body>, <h1> <header>,<footer>,<code>,<style>
+Jangan tambahkan script dan style eksternal, karena website sudah menggunakan font awesome dan bootstrap3.
+Tambahkan gambar ilustrasi yang bebas copyright dari sumber eksternal tentang website [field title][/gemini]
+
+[gemini model=""gemini-1.5-pro"" br=""false"" savepost=""showonly""]Buat artikel penawaran untuk memiliki website dengan [taxonomy category field=name] [field title] dan [pass field=web_penawaran_marketing][loop type=post id='{FIELD}'][if first]jelaskan manfaatnya untuk [taxonomy category field=name] berikut:
+[/if]- [field title] | link:[field url]
+[if last]
+Masing-masing [taxonomy category field=name] beri judul dengan link, gunakan icon font awesome, lalu tambahkan penjelasan 2-4 paragraf.
+Jangan gunakan kontak.
+Gunakan format html bootstrap 3, jangan gunakan tag <!DOCTYPE html>, <html>, <head>, <meta>,<title>,<body>, <h1> <header>,<footer>,<code>,<style>
+Jangan tambahkan link selain yang sudah diatur
+Jangan tambahkan script dan style eksternal, karena website sudah menggunakan font awesome dan bootstrap3.
+Tambahkan gambar ilustrasi yang bebas copyright dari sumber eksternal tentang website 
+[/if][/loop][/pass][/gemini][/savethepost]",Jasa-Sosial-Media-Facebook-Instagram-Tiktok.jpg
+38,Iklan Sosial Media,Penawaran Marketing,,,,,,,,"6,7,9,10,11,13","[savethepost savepost=""post_content""][gemini model=""gemini-1.5-pro"" br=""false"" savepost=""showonly""]Buat artikel menjelaskan manfaat untuk memiliki website dengan [taxonomy category field=name] [field title]
+Jangan gunakan kontak.
+Gunakan format html bootstrap 3, jangan gunakan tag <!DOCTYPE html>, <html>, <head>, <meta>,<title>,<body>, <h1> <header>,<footer>,<code>,<style>
+Jangan tambahkan script dan style eksternal, karena website sudah menggunakan font awesome dan bootstrap3.
+Tambahkan gambar ilustrasi yang bebas copyright dari sumber eksternal tentang website [field title][/gemini]
+
+[gemini model=""gemini-1.5-pro"" br=""false"" savepost=""showonly""]Buat artikel penawaran untuk memiliki website dengan [taxonomy category field=name] [field title] dan [pass field=web_penawaran_marketing][loop type=post id='{FIELD}'][if first]jelaskan manfaatnya untuk [taxonomy category field=name] berikut:
+[/if]- [field title] | link:[field url]
+[if last]
+Masing-masing [taxonomy category field=name] beri judul dengan link, gunakan icon font awesome, lalu tambahkan penjelasan 2-4 paragraf.
+Jangan gunakan kontak.
+Gunakan format html bootstrap 3, jangan gunakan tag <!DOCTYPE html>, <html>, <head>, <meta>,<title>,<body>, <h1> <header>,<footer>,<code>,<style>
+Jangan tambahkan link selain yang sudah diatur
+Jangan tambahkan script dan style eksternal, karena website sudah menggunakan font awesome dan bootstrap3.
+Tambahkan gambar ilustrasi yang bebas copyright dari sumber eksternal tentang website 
+[/if][/loop][/pass][/gemini][/savethepost]",Jasa-Iklan-Sosial-Media.jpg
+39,"Fotografi, Video & Desain Grafis",Penawaran Marketing,,,,,,,,"6,7,11,12,13","[savethepost savepost=""post_content""][gemini model=""gemini-1.5-pro"" br=""false"" savepost=""showonly""]Buat artikel menjelaskan manfaat untuk memiliki website dengan [taxonomy category field=name] [field title]
+Jangan gunakan kontak.
+Gunakan format html bootstrap 3, jangan gunakan tag <!DOCTYPE html>, <html>, <head>, <meta>,<title>,<body>, <h1> <header>,<footer>,<code>,<style>
+Jangan tambahkan script dan style eksternal, karena website sudah menggunakan font awesome dan bootstrap3.
+Tambahkan gambar ilustrasi yang bebas copyright dari sumber eksternal tentang website [field title][/gemini]
+
+[gemini model=""gemini-1.5-pro"" br=""false"" savepost=""showonly""]Buat artikel penawaran untuk memiliki website dengan [taxonomy category field=name] [field title] dan [pass field=web_penawaran_marketing][loop type=post id='{FIELD}'][if first]jelaskan manfaatnya untuk [taxonomy category field=name] berikut:
+[/if]- [field title] | link:[field url]
+[if last]
+Masing-masing [taxonomy category field=name] beri judul dengan link, gunakan icon font awesome, lalu tambahkan penjelasan 2-4 paragraf.
+Jangan gunakan kontak.
+Gunakan format html bootstrap 3, jangan gunakan tag <!DOCTYPE html>, <html>, <head>, <meta>,<title>,<body>, <h1> <header>,<footer>,<code>,<style>
+Jangan tambahkan link selain yang sudah diatur
+Jangan tambahkan script dan style eksternal, karena website sudah menggunakan font awesome dan bootstrap3.
+Tambahkan gambar ilustrasi yang bebas copyright dari sumber eksternal tentang website 
+[/if][/loop][/pass][/gemini][/savethepost]",Jasa-Website-Fotografi-Video-Desain-Grafis.jpg

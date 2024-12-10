@@ -1,0 +1,5 @@
+#WP Import Export Rule
+User-agent: *
+Disallow: /wp-content/uploads/vj-wp-import-export/
+
+Sitemap: https://jasaweb.madxartwork.eu.org/sitemap.xml
